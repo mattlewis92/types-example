@@ -1,0 +1,16 @@
+{
+  "name": "types-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular": "~1.5.13",
+    "@types/angular-mocks": "~1.5.4",
+    "typescript": "~2.0.2"
+  }
+}
